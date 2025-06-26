@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "user": "MediKing",
+      "hardware_info": {
+        "CPU_ID": "178BFBFF00870F10",
+        "MOTHERBOARD_SERIAL": "200772085302249",
+        "BIOS_SERIAL": "System Serial Number",
+        "HDD_SERIAL": "S3Z9NB0K310877K",
+        "MAC_ADDRESS": "24:4B:FE:E0:E7:2F"
+      },
+      "system_info": {
+        "USERNAME": "BackToWin",
+        "MACHINE_NAME": "DESKTOP-AV2QCQ7",
+        "MACHINE_GUID": "f49766bb-75db-4c9e-bea8-cf7ff27739f1",
+        "SYSTEM_UUID": "798F5691-FD94-FF64-802B-244BFEE0E72F",
+        "LICENSE_KEY": "GB14LE2JR63OFPBIXO837OSNY4AXL049"
+      }
+    },
+    {
+      "user": "jevannd",
+      "hardware_info": {
+        "CPU_ID": "BFEBFBFF000906A4",
+        "MOTHERBOARD_SERIAL": "/4KRGF14/CNCMC003BP0BBB/",
+        "BIOS_SERIAL": "4KRGF14",
+        "HDD_SERIAL": "0000_0000_0000_0001_00A0_7523_43C4_6613.",
+        "MAC_ADDRESS": "C8:15:4E:F0:39:30"
+      },
+      "system_info": {
+        "USERNAME": "sjasr",
+        "MACHINE_NAME": "DESKTOP-DHDPFAH",
+        "MACHINE_GUID": "d3006a2b-f6b0-4eb1-8643-92a28b7a35c6",
+        "SYSTEM_UUID": "4C4C4544-004B-5210-8047-B4C04F463134",
+        "LICENSE_KEY": "PVN2RT5V1DNN0PT6ACC970ZCHQLO960B"
+      }
+    },
+    {
+      "user": "percdout",
+      "hardware_info": {
+        "CPU_ID": "BFEBFBFF000B0671",
+        "MOTHERBOARD_SERIAL": "07D2521_N41E783471",
+        "BIOS_SERIAL": "Default string",
+        "HDD_SERIAL": "0000_0000_0000_0000_D0D0_D0D0_D0D0_D0D0.",
+        "MAC_ADDRESS": "A4:F9:33:C0:A7:B0"
+      },
+      "system_info": {
+        "USERNAME": "PC",
+        "MACHINE_NAME": "DESKTOP-CKRJ150",
+        "MACHINE_GUID": "6c723831-9bf5-4f89-99f1-5598f7579795",
+        "SYSTEM_UUID": "A8A578AB-07A4-901C-A9A0-047C16C644A5",
+        "LICENSE_KEY": "7SUVJYLB933PRBCCKPVYE4M6L4SWR7KJ"
+      }
+    }
+  ]
+}
