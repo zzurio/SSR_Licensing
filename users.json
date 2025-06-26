@@ -50,6 +50,23 @@
         "SYSTEM_UUID": "A8A578AB-07A4-901C-A9A0-047C16C644A5",
         "LICENSE_KEY": "7SUVJYLB933PRBCCKPVYE4M6L4SWR7KJ"
       }
+    },
+    {
+      "user": "adam",
+      "hardware_info": {
+        "CPU_ID": "BFEBFBFF000B0671",
+        "MOTHERBOARD_SERIAL": "07D2521_N41E783471",
+        "BIOS_SERIAL": "Default string",
+        "HDD_SERIAL": "0000_0000_0000_0000_D0D0_D0D0_D0D0_D0D0.",
+        "MAC_ADDRESS": "A4:F9:33:C0:A7:B0"
+      },
+      "system_info": {
+        "USERNAME": "PC",
+        "MACHINE_NAME": "DESKTOP-CKRJ150",
+        "MACHINE_GUID": "6c723831-9bf5-4f89-99f1-5598f7579795",
+        "SYSTEM_UUID": "A8A578AB-07A4-901C-A9A0-047C16C644A5",
+        "LICENSE_KEY": "7SUVJYLB933PRBCCKPVYE4M6L4SWR7KJ"
+      }
     }
   ]
 }
